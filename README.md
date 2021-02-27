@@ -1,4 +1,4 @@
-# TikTakToeAI
+## TikTakToeAI
 Two versions of TikTakToe AI created by using two different methods
 * Method 1( tiktaktoeai1.py): This version is the easiest to understand, build and to play against its made by using sinple conditional flow statements. Good old if-else and a few for loops thats about it. While being sinple to understand just showing how powerfull of a tool conditional statement is if used properly. While this AI puts up a hell of a challenge it still gives you chance to win.
 
@@ -6,3 +6,6 @@ Two versions of TikTakToe AI created by using two different methods
 
 ### How to run
 You can either download the code in your local environment and run it or since it has no external libraries dependancy you can just copy paste it in an online interpreter like [This one](https://www.programiz.com/python-programming/online-compiler/)
+
+## Sudoku
+* A sudoku solver based on Recursion and backtracing that kinda makes my brain hurt
